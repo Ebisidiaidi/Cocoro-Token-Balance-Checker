@@ -23,7 +23,7 @@ The **Cocoro Token Balance Checker** is a Python script that connects to the Bas
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/cocoro-token-balance-checker.git](https://github.com/Ebisidiaidi/Cocoro-Token-Balance-Checker.git)
+   git clone https://github.com/Ebisidiaidi/Cocoro-Token-Balance-Checker.git
    cd cocoro-token-balance-checker
    
 1. Run this scrip:
