@@ -32,4 +32,4 @@ The **Cocoro Token Balance Checker** is a Python script that connects to the Bas
    
 3. Run this script:
    ```bash
-   python main.py
+   python3 main.py
