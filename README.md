@@ -25,7 +25,11 @@ The **Cocoro Token Balance Checker** is a Python script that connects to the Bas
    ```bash
    git clone https://github.com/Ebisidiaidi/Cocoro-Token-Balance-Checker.git
    cd cocoro-token-balance-checker
+
+2. create address.txt, fill your address for checker:
+   ```bash
+   address.txt
    
-1. Run this scrip:
+3. Run this scrip:
    ```bash
    python main.py
