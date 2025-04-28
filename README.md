@@ -30,6 +30,6 @@ The **Cocoro Token Balance Checker** is a Python script that connects to the Bas
    ```bash
    address.txt
    
-3. Run this scrip:
+3. Run this script:
    ```bash
    python main.py
